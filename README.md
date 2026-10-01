@@ -13,7 +13,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
+<h1 data-importer="text" align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔<br>ﾠ</h1>
 
 ###
 
