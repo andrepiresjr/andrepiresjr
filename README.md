@@ -38,13 +38,3 @@
 </div>
 
 ###
-
-<h3 data-importer="text" align="left">ᶻ 𝗓 𐰁 .ᐟ  Meus Status :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=andrepiresjr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
