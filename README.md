@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img data-importer="image" align="right" height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI3aXlqcW13cmh2d3RnNjZtcXNuY2VnYzZvbWthYXpsOHBmcm1oMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XYyxh0R1XilajMWB8X/giphy.gif"  />
 
 ###
@@ -15,7 +13,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔</h1>
+<h1 data-importer="text" align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 ###
 
@@ -46,7 +44,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/andrepiresjr/andrepiresjr/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=andrepiresjr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
